@@ -16,5 +16,5 @@ int main(){
     };
     printf("Player 1 Name: %s\n", Player1.Name);
     printf("Player 1 Age: %d\n", Player1.age);
-    
+    return 0;
 }
